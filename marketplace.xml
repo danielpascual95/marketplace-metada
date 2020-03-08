@@ -13067,7 +13067,7 @@ Uses the MarkLogic Data Movement Java SDK. Works with MarkLogic 9.0 and above on
         <name>PDI Plugins</name>
       </parent>
     </category>
-    <description>This plugin allow to generate charts with javascript libraries like Google chart.This plugin has been developed as a final project of computer engineerin at the university of Alicante,Spain.
+    <description>This plugin allow to generate charts with javascript libraries like Google charts.This plugin has been developed as a final project of computer engineerin at the university of Alicante,Spain.
     </description>
     <author>Daniel Pascual Parrondo</author>
     <documentation_url>https://github.com/danielpascual95/GenerateChart-wiki/blob/master/wiki</documentation_url>
